@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecyclerView_test_2</string>
+    <string-array name="URL">
+        <item>https://www.google.com/</item>
+        <item>http://yakkun.com</item>
+        <item>http://mhwg.org</item>
+        <item>http://qiita.com</item>
+        <item>http://gbf-wiki.com</item>
+    </string-array>
+</resources>
