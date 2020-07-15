@@ -1,0 +1,3 @@
+# recyclerview_test
+
+androidのrecyclerviewにURLを埋め込んでwebviewで表示させるだけのテスト
